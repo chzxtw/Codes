@@ -70,11 +70,11 @@
 // }
  
  //Escreva um programa que verifique se um número é par ou ímpar.
-let numero = 65745764;
+// let numero = 65745764;
 
-  if (numero % 2 === 0) {
-    console.log(numero + " é um número PAR.");
-  } 
-  else {
-    console.log(numero + " é um número ÍMPAR.");
-  }
+//   if (numero % 2 === 0) {
+//     console.log(numero + " é um número PAR.");
+//   } 
+//   else {
+//     console.log(numero + " é um número ÍMPAR.");
+//   }
